@@ -21,3 +21,10 @@ The first dataset is smaller, and has 132 observations with 12 variables. The se
 
 ## Submission Venue
 We plan to write a paper submittable to [IEEE Journal of Biomedical Health Informatics (JBHI)](https://jbhi.embs.org/).
+
+## References
+Litjens, Geert, et al. "A survey on deep learning in medical image analysis." *Medical image analysis* 42 (2017): 60-88.
+
+Ravi, Daniele, et al. "A deep learning approach to on-node sensor data analytics for mobile or wearable devices." *IEEE journal of biomedical and health informatics* 21.1 (2017): 56-64.
+
+Ravì, Daniele, et al. "Deep learning for health informatics." *IEEE journal of biomedical and health informatics* 21.1 (2017): 4-21.
