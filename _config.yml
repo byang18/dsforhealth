@@ -1,5 +1,3 @@
-title: CS 89: Data Science For Health
-description: This is our project!
 plugins:
   - jekyll-relative-links
 relative_links:
