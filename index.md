@@ -5,5 +5,5 @@ The repository for this website is found [here](https://github.com/byang18/dsfor
 The Google Doc, which contains the current working draft of the paper is found [here](https://docs.google.com/document/d/1QSn9jRyujByszDhKS1550un3el3O3_bRRT9sri4dM8w/edit?usp=sharing).
 
 ### Checkpoints
-- [Assignment 1](./checkpoints/assignment1.md)
+- [Assignment 1](./checkpoints/assignment1.md): Proposal
 - Assignment 2: Outline and Paper Introduction
