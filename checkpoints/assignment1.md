@@ -11,7 +11,7 @@ The goal of this project is to compare the performance of various classifiers an
 There are several papers that already compare different classifiers on predicting heart attack survival rates. However, our paper offers several differences:
 - Our paper examines the echocardiogram-UCI dataset from Kaggle. To our knowledge, no other papers specifically train multiple classifiers on this dataset.
 - No other prominent paper examines data-augmented neural networks on heart attack survival rate.
-- Our paper will also examine age. Specifically, given the preliminary pulmonary conditions of patients, what age they are predicted to have a heart attack. We think this is useful if different features are more important in predicting heart attacks at younger versus older ages.
+- Our paper will also examine age. Specifically, we plan to investigate, what age patients are predicted to have a heart attack, given their heart conditions. We think this is useful if different features are more important in predicting heart attacks at younger versus older ages.
 
 
 ## Dataset
