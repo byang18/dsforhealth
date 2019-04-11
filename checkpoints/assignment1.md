@@ -5,12 +5,14 @@ How Data-Augmented Neural Network Perform on Predicting Survival Rate of Heart A
 Our group consists of Devina Kumar, Barry Yang, and Ray Tianyu Li.
 
 ## Objectives and Goals of Project
-The goal of this project is to compare the performance of various classifiers and neural networks in predicting whether or not a patient survives a heart attack. The project involves training classifiers and networks on the open-source echocardiogram-UCI dataset. We will compare the performance of these classifiers and networks to determine which one performs with the most accuracy.  Then, we will train a neural network on an augmented data set and compare its performance to the most accurate model for the non-augmented set to determine the value of data augmentation.
+The goal of this project is to compare the performance of various classifiers and neural networks in predicting heart attack survival rates, as well as what age a patient may have a heart attack. The project involves training classifiers and networks on the open-source echocardiogram-UCI dataset. We will compare the performance of these classifiers and networks to determine which one performs with the most accuracy.  Then, we will train a neural network on an augmented data set and compare its performance to the most accurate model for the non-augmented set to determine the value of data augmentation.
 
 ## Innovation
 There are several papers that already compare different classifiers on predicting heart attack survival rates. However, our paper offers several differences:
 - Our paper examines the echocardiogram-UCI dataset from Kaggle. To our knowledge, no other papers specifically train multiple classifiers on this dataset.
 - No other prominent paper examines data-augmented neural networks on heart attack survival rate.
+- Our paper will also examine age. Specifically, given the preliminary pulmonary conditions of patients, what age they are predicted to have a heart attack. We think this is useful if different features are more important in predicting heart attacks at younger versus older ages.
+
 
 ## Dataset
 We plan to use two datasets for this study:
